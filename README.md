@@ -15,3 +15,18 @@ Ejemplos de implementación de algoritmos de Computación Evolutiva e Inteligenc
 	CLONALG-RandomPosProblem.ipynb
 20:54:05 De Pablo Pytel a Todos:
 	MEME-RandomPosProblem.ipynb
+
+
+##### Jupyter Notebook
+```sh
+ipywidgets
+pip install notebook
+pip install jupyterlab
+pip install numpy matplotlib networkx pillow ipywidgets
+pip install pandas scipy
+
+sudo ufw allow 8888
+jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser 
+```
+
+
