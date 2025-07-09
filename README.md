@@ -1,3 +1,6 @@
+#### RNAs & Deep Learning:
+https://github.com/PGP-MachineLearning/demoML
+Ejemplos de implementaciones de algortimos de Machine Learning en Google Colab
 #### Ejemplos LLMs & DMs:
 https://github.com/PGP-MachineLearning/ejemplosLLM
 Ejemplos de Large Language Model (LLM) y Difussion Models (DMs) ya entrenados disponibles.
@@ -22,14 +25,12 @@ Ejemplos de implementación de algoritmos de Computación Evolutiva e Inteligenc
 
 ##### Jupyter Notebook
 ```sh
-ipywidgets
 pip install notebook
 pip install jupyterlab
 pip install numpy matplotlib networkx pillow ipywidgets
 pip install pandas scipy
+pip install torch
 
 sudo ufw allow 8888
 jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser 
 ```
-
-
