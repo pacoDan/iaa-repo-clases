@@ -1,3 +1,6 @@
+#### Ejemplos LLMs & DMs:
+https://github.com/PGP-MachineLearning/ejemplosLLM
+Ejemplos de Large Language Model (LLM) y Difussion Models (DMs) ya entrenados disponibles.
 #### Computacion Evolutiva e Inteligencia de Enjambre
 https://github.com/PGP-MachineLearning/demoCESwarm 
 Ejemplos de implementación de algoritmos de Computación Evolutiva e Inteligencia de Enjambre en Google Colab
